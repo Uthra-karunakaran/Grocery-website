@@ -9,7 +9,7 @@ Welcome to the Grocery Web App! Our platform is designed to provide a seamless o
 
 - **Project Documentation :** https://docs.google.com/document/d/1Z7s3QX0PgK9SWjAuzPlyqNZ5wkNo7ttL/edit?usp=sharing&ouid=116446865624800054596&rtpof=true&sd=true
   
-- - **Project Presentation (PPT) :** https://drive.google.com/file/d/1bHYeI9-6hL-wnV3ef99XWMy1DQ0S2taR/view?usp=sharing
+-  **Project Presentation (PPT) :** https://drive.google.com/file/d/1bHYeI9-6hL-wnV3ef99XWMy1DQ0S2taR/view?usp=sharing
 
 ## Introduction
 The Grocery Web App is a full-stack application developed to simplify online grocery shopping. Customers can browse a catalog of products, add items to their cart, and complete the checkout process with ease. For sellers and administrators, the app provides robust tools to manage inventory, track orders, and process customer inquiries, creating a reliable platform for online shopping.
