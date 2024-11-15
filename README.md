@@ -59,7 +59,7 @@ The Grocery Web App is a full-stack application developed to simplify online gro
 ### Contributors
 -  [UTHRA K](https://github.com/Uthra-karunakaran)
 - [SHRINEDHI M R](https://github.com/Shrinedhi-MR)
-- [SUSANNA B]()
-- [REVATHY V]()
+- 
+- 
 
 
