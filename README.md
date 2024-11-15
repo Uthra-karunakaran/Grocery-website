@@ -56,3 +56,10 @@ The Grocery Web App is a full-stack application developed to simplify online gro
 - **JWT (JSON Web Tokens)** for secure authentication
 - **Payment Gateway Integration** 
 
+### Contributors
+-  [UTHRA K](https://github.com/Uthra-karunakaran)
+- [SHRINEDHI M R](https://github.com/Shrinedhi-MR)
+- [SUSANNA B]()
+- [REVATHY V]()
+
+
